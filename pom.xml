@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gabriel</groupId>
-	<artifactId>sandbox</artifactId>
+	<artifactId>runnerz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sandbox</name>
-	<description>Demo project for Spring Boot</description>
+	<name>runnerz</name>
+	<description></description>
 	<url/>
 	<licenses>
 		<license/>

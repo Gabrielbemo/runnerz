@@ -1,4 +1,4 @@
-package com.gabriel.sandbox.run;
+package com.gabriel.runnerz.run;
 
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.Positive;

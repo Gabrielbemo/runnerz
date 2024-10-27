@@ -1,10 +1,10 @@
-package com.gabriel.sandbox;
+package com.gabriel.runnerz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SandboxApplicationTests {
+class AppTests {
 
 	@Test
 	void contextLoads() {

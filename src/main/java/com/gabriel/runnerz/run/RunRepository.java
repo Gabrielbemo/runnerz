@@ -1,10 +1,9 @@
-package com.gabriel.sandbox.run;
+package com.gabriel.runnerz.run;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;
 
 import java.time.LocalDateTime;
-import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
