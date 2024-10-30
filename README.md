@@ -2,7 +2,7 @@
 
 - This project is an API to manage races for some users
 
-- Spring Boot Docker compose and postgresql were used as tools
+- Spring Boot, Docker Compose and postgresql were used as tools
 
 ## How to run
 
